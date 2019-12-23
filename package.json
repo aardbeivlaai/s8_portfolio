@@ -1,0 +1,22 @@
+{
+  "name": "s8_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonnyluu/s8_portfolio.git"
+  },
+  "author": "Sonny Luu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonnyluu/s8_portfolio/issues"
+  },
+  "homepage": "https://github.com/sonnyluu/s8_portfolio#readme",
+  "dependencies": {
+    "liveserver": "^0.1.20"
+  }
+}
